@@ -1,5 +1,5 @@
 .bg-section {
-  background-color: grey;
+  /* background-color: grey; */
 }
 
 #main-image {
@@ -27,10 +27,8 @@ body {
   }
   
   .navbar-brand {
-    font-family: 'Times New Roman', Times, serif;
-    font-size: 25px;
+    font-size: 2rem;
     font-weight: bolder;
-    background-color: rgb(20, 150, 150);
     padding: 10px;
     margin-left: 5%;
   }
